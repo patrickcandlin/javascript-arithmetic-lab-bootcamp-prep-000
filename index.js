@@ -6,4 +6,10 @@ function subtract() {
   
 }
 
-function 
+function multiply() {
+  
+}
+
+function divide() {
+  
+}
