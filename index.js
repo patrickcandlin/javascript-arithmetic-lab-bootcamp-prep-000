@@ -23,7 +23,10 @@ function dec(n) {
   return --n;
 } 
 
-makeInt(n) {
+function makeInt(n) {
   
 }
 
+function preserveDecimal(n) {
+  
+}
