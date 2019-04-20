@@ -14,4 +14,9 @@ function multiply(a,b) {
 function divide(a,b) {
   return a / b
 }
-function inc(n)
+function inc(a) {
+  return a++
+}
+functionn dec(a) {
+  return a--
+}
