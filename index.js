@@ -19,6 +19,6 @@ var n = a
 function inc(n) {
   return n++;
 }
-function dec(a) {
-  return a--;
-}
+function dec(n) {
+  return n--;
+} 
